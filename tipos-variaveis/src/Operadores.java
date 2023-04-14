@@ -2,12 +2,13 @@ public class Operadores {
 
     public static void main(String[] args) {
 
+        /*
         String nome = "Cleiton";
         int idade = 30;
         double peso = 86.5;
         char sexo = 'M';
         boolean doadorOrgao = false;
-        
+         */        
         
         String nomeCompleto = "Linguagem" + "JAVA";
     
